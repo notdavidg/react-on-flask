@@ -7,7 +7,7 @@ verify_ssl = true
 
 [packages]
 pyjwt = "==1.7.1"
-flask-cors = "==3.0.7"
+flask-cors = "==3.0.9"
 
 [requires]
 python_version = "3.7"
